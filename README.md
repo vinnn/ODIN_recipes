@@ -9,10 +9,10 @@ This project is to practice the concepts learned in the Odin Project Foundation 
 
 ## Concepts covered:
 HTML:
-- 
-- 
-- 
-- 
-- 
+- HTML basic structure and template
+- create links (<a href=.. alt=..>)
+- display images (<img src=... alt=...>)
+- ordered and unordered lists (<ol>, <ul>, <li>)
 
-
+GIT/GITHUB:
+- stage, commit and push to Github repository
