@@ -16,3 +16,6 @@ HTML:
 
 GIT/GITHUB:
 - stage, commit and push to Github repository
+
+## View page
+https://vinnn.github.io/ODIN_recipes/
